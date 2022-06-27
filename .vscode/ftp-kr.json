@@ -1,0 +1,36 @@
+{
+    "host": "103.148.156.246",
+    "username": "test_app_bilsamtech_in",
+    "password": "24xPb~seklYMi9zf",
+    "remotePath": "",
+    "port": 21,
+    "secure": true,
+    "uploadOnSave": true,
+    "secureOptions": {
+        "rejectUnauthorized": false
+    },
+    "protocol": "ftps",
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "autoUpload": true,
+    "passphrase": "null",
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    },
+
+
+
+    "fileNameEncoding": "utf8",
+    "autoDelete": false,
+    "autoDownload": false
+}
